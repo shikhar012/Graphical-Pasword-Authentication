@@ -1,0 +1,33 @@
+Graphical Password Authentication (GPA) is a type of authentication system that uses images, symbols, or a combination of both instead of traditional alphanumeric passwords. GPA is designed to address the limitations of traditional alphanumeric passwords such as memorability, predictability, and vulnerability to brute-force attacks. Instead of typing a password, the user selects a sequence of images or symbols to authenticate themselves.
+
+GPA typically consists of the following components:
+
+Registration: During the registration process, the user selects a set of images or symbols that will be used to create their password. The user may be required to select from a pre-defined set of images or symbols, or they may be allowed to upload their own.
+
+Login: During the login process, the user is presented with a grid of images or symbols. The user then selects the images or symbols that correspond to their password.
+
+Authentication: The authentication process compares the selected images or symbols to the previously registered password. If the selections match, the user is granted access.
+
+There are several types of graphical password schemes:
+
+Recognition-based: In recognition-based GPA, the user is presented with a set of images or symbols and asked to identify which images or symbols they previously selected during registration.
+
+Recall-based: In recall-based GPA, the user is presented with a grid of images or symbols and asked to recall which images or symbols they previously selected during registration.
+
+Cued-recall-based: In cued-recall-based GPA, the user is presented with a set of cues, such as an image or phrase, that help them recall the images or symbols they previously selected during registration.
+
+Some advantages of GPA include:
+
+Increased security: GPA can be more secure than traditional alphanumeric passwords because images and symbols are more difficult to guess or crack than words.
+
+Ease of use: GPA can be more user-friendly than traditional alphanumeric passwords because users can select images or symbols that are meaningful to them and easier to remember.
+
+Accessibility: GPA can be more accessible to individuals with visual or cognitive impairments who may have difficulty remembering traditional alphanumeric passwords.
+
+However, there are also some disadvantages to GPA:
+
+Limited selection: The number of images or symbols available for selection may be limited, which can make the selection process more predictable and easier to guess.
+
+Memorability: Some users may have difficulty remembering which images or symbols they selected during registration.
+
+Usability: The user interface for GPA may not be as intuitive as traditional alphanumeric passwords, which can lead to user frustration and errors.
